@@ -5,6 +5,6 @@ Useful for working with app restrictions in specific cases, you shouldn't run an
 
 Plato is to download pre-patched .app(s), as well as patch your own apps (and more coming soon!).
 
-To install, download the latest zip from releases and extract the .app. It should "just work".
+To install/update, see the instructions in the latest release.
 
-Unfortunately, Plato is CLOSED-SOURCE. Don't expect this to change.
+Unfortunately, Plato is CLOSED-SOURCE. Don't expect this to change. If you need an older build and it isn't avaliable on the releases page or isn't working right, open an issue. We keep archives of the source for each version.
